@@ -6,7 +6,7 @@ The initial paper search, download, and text preprocessing were performed throug
 
 Final paper annotation was performed by loading the preprocessed papers into **OpenAI GPT-5.6 Thinking** in batches. Each paper was classified using a consistent schema covering publication metadata, task domain, world-model use, planning approach, language conditioning, evaluation setting, robot platform, and related methodological details. Definition-sensitive decisions, such as distinguishing world models from direct policies and planning from closed-loop action prediction, were recorded with supporting evidence and review notes.
 
-After curation, the consolidated dataset was analyzed again using **Python code in Jupyter notebooks** to generate summary statistics and visualizations.
+After curation, the consolidated dataset was analyzed again to generate summary statistics and visualizations.
 
 ### Limitations
 
